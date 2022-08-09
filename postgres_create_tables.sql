@@ -1,4 +1,4 @@
-/* Run this script first */
+/* Run the script first to create tables */
 
 CREATE TABLE attendees
 (
