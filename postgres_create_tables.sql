@@ -1,3 +1,5 @@
+/* Run this script first */
+
 CREATE TABLE attendees
 (
     attendee_id  SERIAL PRIMARY KEY,
